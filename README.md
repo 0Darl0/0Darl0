@@ -1,15 +1,15 @@
-# ? Привет, я Егор!
+# 🖐️Привет, я Егор!
 
-## ?‍? О себе
+## 📓 О себе
 Junior Python Backend Developer.
 
-## ? Технический стек
+## 🔍 Технический стек
 - Python, FastAPI, Flask
 - Git
 - PyQt
 - Telebot
 
-## ? Контакты
+## 📱 Контакты
 - Email: xx.filatov@yandex.ru
 - Telegram: @Unfortunate_Jester
 ## Cтатистика LeetCode
