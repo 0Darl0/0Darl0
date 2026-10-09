@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8fce00&lines=Backend+developer+python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8FCE00&lines=Backend+developer+python)](https://git.io/typing-svg)
 
 <!--
 **0Darl0/0Darl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
