@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%93c47d&lines=Backend+developer+python)](https://git.io/typing-svg)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Darl098&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **0Darl0/0Darl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
