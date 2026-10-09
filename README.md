@@ -1,5 +1,18 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%93c47d&lines=Backend+developer+python)](https://git.io/typing-svg)
+# ? Привет, я Егор!
+
+## ?‍? О себе
+Junior Python Backend Developer.
+
+## ? Технический стек
+- Python, FastAPI, Flask
+- Git
+- PyQt
+- Telebot
+
+## ? Контакты
+- Email: xx.filatov@yandex.ru
+- Telegram: @Unfortunate_Jester
+## Cтатистика LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Darl098&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
